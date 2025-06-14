@@ -17,11 +17,12 @@ Visit the app: <http://localhost:5174/>
 2. Login Page (/login)
 3. Dashboard Page (/dashboard)
 Use React Router to navigate between these pages.
-● On the Signup Page, created a form that captures the user's full name, email, and password. Validate all fi elds and store the user’s information securely in localStorage.
-● On the Login Page, created a form with email and password fi elds. When the user submits the form, validate the inputs and check if the credentials match the data saved in localStorage. If they do, display a "Welcome back!" message and redirect the user to the Dashboard. If not, show an error.
-● Additionally, implement a “Sign in with Google” feature using Auth0. If the user logs in successfully via Google, redirect them to the Dashboard page as well.
-● The Dashboard Page should only be accessible after a successful login and should display a simple welcome message or user details.
-Run the app locally: <http://localhost:3000/>
+- ● On the Signup Page, created a form that captures the user's full name, email, and password. Validate all fi elds and store the user’s information securely in localStorage.
+- ● On the Login Page, created a form with email and password fi elds. When the user submits the form, validate the inputs and check if the credentials match the data saved in localStorage. If they do, display a "Welcome back!" message and redirect the user to the Dashboard. If not, show an error.
+- ● Additionally, implement a “Sign in with Google” feature using Auth0. If the user logs in successfully via Google, redirect them to the Dashboard page as well.
+- ● The Dashboard Page should only be accessible after a successful login and should display a simple welcome message or user details.
+
+- Run the app locally:<http://localhost:3000/>
 
 ## News Feed Page 
 - BuilT a News Feed Application with a custom backend using Strapi and a frontend using React. You are required to set up both the backend and frontend as follows:
