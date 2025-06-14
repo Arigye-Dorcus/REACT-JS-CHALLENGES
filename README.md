@@ -31,6 +31,7 @@ Use React Router to navigate between these pages.
 -  Each post should include the following fi elds: title, author, content,
 excerpt, and category.
 2. Ensure the API supports fetching:
-○ All posts (with pagination)
-○ A single post by ID or slug
-○ Posts fi ltered by category or title
+- ○ All posts (with pagination)
+- ○ A single post by ID or slug
+- ○ Posts fi ltered by category or title
+🚀 **Live Demo**: [Click here to view the deployed app](https://react-js-challenges-1.onrender.com)
